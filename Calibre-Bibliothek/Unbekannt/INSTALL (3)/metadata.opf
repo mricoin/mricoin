@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3ab8c0b-cf23-4cd6-bad3-3a7d51250eaa</dc:identifier>
+        <dc:title>INSTALL</dc:title>
+        <dc:creator opf:file-as="Unbekannt" opf:role="aut">Unbekannt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>de</dc:language>
+        <meta content="{&quot;Unbekannt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2018-01-04T19:39:32.443105+00:00" name="calibre:timestamp"/>
+        <meta content="INSTALL" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Titelbild" type="cover"/>
+    </guide>
+</package>
