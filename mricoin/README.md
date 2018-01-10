@@ -1,3 +1,3 @@
-FooCoin (FOO)
+MRICoin (MRI)
 
 Blah, blah, blah.
